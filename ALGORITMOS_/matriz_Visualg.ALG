@@ -1,10 +1,10 @@
 Algoritmo "matriz"
 //Ler valores inteiros para a matriz A3x5. Gerar e imprimir a matriz (vetor) SL (soma das
-//3 linhas), onde cada elemento é a soma dos elementos de uma linha da
-//matriz A. Faça
-//o trecho que gera a matriz SL separado (laços de repetição)
-//da entrada e da saída de
-//dados.
+//3 linhas), onde cada elemento Ã© a soma dos elementos de uma linha da
+//matriz A. FaÃ§a
+//o trecho que gera a matriz SL separado (laÃ§os de repetiÃ§Ã£o)
+//da entrada e da saÃ­da de
+//dados
 
 Var
 
